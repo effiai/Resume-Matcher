@@ -143,5 +143,5 @@ scripts/similarity/config.yml
 *.local.yml
 
 # Processed or local files
-/Data/Processed/*
+#/Data/Processed/*
 *.local.pdf
